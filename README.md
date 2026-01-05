@@ -1,5 +1,4 @@
-# Hierarchical-covariance-risk
-Portfolio volatility risk calculator using covariance and hierarchy
+# Hierarchical-covariance-risk: Portfolio volatility risk calculator using covariance and hierarchy
 
 # Hierarchy-Regularized Covariance Estimation for Robust Portfolio Risk
 
